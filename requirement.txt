@@ -1,0 +1,9 @@
+stremlit==1.54.0
+pandas==2.3.3
+pytest==9.0.2
+uvicorn==0.40.0
+mysql-connector-python==9.6.0
+fastapi==0.128.5
+pydantic==2.12.5
+requests==2.32.5
+
